@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "name": "Soap",
+    "price": 20,
+    "description": "Soap is a salt of a fatty acid used in a variety of cleansing and lubricating products. In a domestic setting, soaps are surfactants usually used for washing, bathing, and other types of housekeeping. In industrial settings, soaps are used as thickeners, components of some lubricants, and precursors to catalysts.",
+    "image": "https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "category": "Bath",
+    "isOnSale": true,
+    "quantityInStock": 10
+  },
+  {
+    "id": "2",
+    "name": "Shampoo",
+    "price": 30,
+    "description": "Shampoo is a hair care product, typically in the form of a viscous liquid, that is used for cleaning hair. Less commonly, shampoo is available in bar form, like a bar of soap. Shampoo is used by applying it to wet hair, massaging the product into the hair, and then rinsing it out.",
+    "image": "https://images.unsplash.com/photo-1631729371254-42c2892f0e6e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "category": "Hair",
+    "isOnSale": false,
+    "quantityInStock": 10
+  },
+  {
+    "id": "3",
+    "name": "Toothbrush",
+    "price": 10,
+    "description": "A toothbrush is an oral hygiene instrument used to clean the teeth, gums, and tongue. It consists of a head of tightly clustered bristle--atop of which toothpaste is supposed to go--mounted on a handle which facilitates the cleaning of hard-to-reach areas of the mouth.",
+    "image": "https://images.unsplash.com/photo-1520013573795-38516d2661e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2136&q=80",
+    "isOnSale": true,
+    "category": "Oral"
+  }
+]
